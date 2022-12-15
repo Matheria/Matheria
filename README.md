@@ -7,14 +7,14 @@
 <br>
  <h3 align="center">My contacts:</h3>
  <div align="center">
-  <a href="mailto:sensenevercame@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" target="_blank">
+  <a href="mailto:sensenevercame@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://t.me/sergsavinkov">
-    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" target="_blank">
+  <a href="https://t.me/sergsavinkov" target="_blank">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
-  <a href="https://www.linkedin.com/in/sergeysavinkov/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sergeysavinkov" target="_blank"/>
+  <a href="https://www.linkedin.com/in/sergeysavinkov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sergeysavinkov"/>
   </a> 
  </div>
  
