@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 🤝 CV: **hexlet.cv**
+- 🤝 CV: [**hexlet.cv**](https://cv.hexlet.io/resumes/1851)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Matheria?tab=repositories)
 
