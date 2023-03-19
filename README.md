@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Matheria?tab=repositories)
 
--  🚀 Codewars:  [![Codewars Badge](https://www.codewars.com/users/Matheria/badges/micro)]([https://www.codewars.com/users/Matheria](https://www.codewars.com/users/rsschool_5fa66643831da015))
+-  🚀 Codewars:  [![Codewars Badge](https://www.codewars.com/users/rsschool_5fa66643831da015/badges/micro)]([https://www.codewars.com/users/rsschool_5fa66643831da015](https://www.codewars.com/users/rsschool_5fa66643831da015))
 <br>
 
 ### ⚙️ Technologies I Use
