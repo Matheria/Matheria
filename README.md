@@ -10,7 +10,7 @@
   <a href="mailto:sensenevercame@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://t.me/sergsavinkov" target="_blank">
+  <a href="https://t.me/Ishalldevour" target="_blank">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
   <a href="https://www.linkedin.com/in/sergeysavinkov/" target="_blank">
