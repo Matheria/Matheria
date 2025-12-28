@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sergey</h1>
-<h3 align="center">I'm looking for the new career opportunities as a Junior Frontend developer.</h3>
+<h3 align="center">I'm looking for the new career opportunities as a Frontend developer.</h3>
 <br>
  <h3 align="center">My contacts:</h3>
  <div align="center">
